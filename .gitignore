@@ -1,0 +1,34 @@
+# Ignore environment variables
+.env
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+env/
+.virtualenvs/
+
+# Ignore logs
+*.log
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Streamlit cache and session state
+.streamlit/
+
+# Ignore dependencies installed via pip freeze
+requirements.txt.lock
+
+# Ignore VSCode workspace settings
+.vscode/
+
+# Ignore JetBrains IDE settings
+.idea/
+
+# Ignore macOS system files
+*.swp
+*.swo
