@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 
 st.set_page_config(page_title="🤖 AI Interview Coach", page_icon="💼", layout="centered")
 
-# --- Custom Styling with HTML/CSS ---
+# Custom Styling with HTML/CSS
 st.markdown(
     """
     <style>
@@ -75,7 +75,7 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-# --- Helper Functions for Security ---
+# Helper Functions for Security
 def is_safe_input(text):
     """
     Check for potentially malicious content.
