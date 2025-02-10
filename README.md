@@ -4,6 +4,12 @@
 
 AI Interview Coach is an **AI-powered interview preparation tool** designed to help users practice real-world interview questions, receive **instant AI feedback**, and refine their answers for top performance. The app is powered by **Streamlit** and OpenAI’s GPT models, allowing for **customized, role-specific** question generation and evaluation.
 
+## 🚀 Deployed App
+The application is live and can be accessed here:  
+🔗 **[Aura Interview App](https://aurainterviewapp.streamlit.app)**  
+
+Feel free to try it out and provide feedback!
+
 ## Key Objectives
 
 - **Generate interview questions** tailored to your role and target company.
@@ -34,7 +40,7 @@ Ensure you have a valid **OpenAI API key** to use this tool.
 
 ---
 
-## Installation and Setup
+## 🛠 How to Run Locally
 
 1. Clone the Repository
 
